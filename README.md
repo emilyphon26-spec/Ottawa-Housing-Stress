@@ -35,7 +35,7 @@ This sheet shows whether expensive housing prices relate to high incomes, or whe
 
 This sheet provides a “pressure test” of affordability stress by checking how it relates to market activity.
 
-<img src="tableau\Sheet3.png" alt="Sheet 3 - Market Intensity vs Stress" width="900"> 
+<img src="tableau\Sheet3.png" alt="Sheet 3 - Market Intensity vs Stress" width="900">  
 
 <ul>
   <li><b>High stress + high activity:</b> suggests market churn where affordability remains strained (possible demand hotspots).</li>
