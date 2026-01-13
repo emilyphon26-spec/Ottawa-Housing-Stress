@@ -26,7 +26,7 @@ Higher ratios indicate that housing costs are large relative to typical househol
 ## Sheet 2: Wages vs Housing (Dual-Axis: Income vs Median Price)
 
 This sheet shows whether expensive housing prices relate to high incomes, or whether prices are not related to local earnings which is a key affordability stress signal.
-<p align="center"> <img src="tableau\Sheet2.png"" alt="Sheet 2" width="600"> </p>
+<p align="center"> <img src="tableau\Sheet2.png" alt="Sheet 2" width="600"> </p>
 
 - Mismatch risk: Wards where price rises much faster than income indicate stronger affordability pressure than wards where both move together.
 - Policy relevance: This supports targeted affordability programs, supply-side actions, or zoning reviews in wards where the gap is most extreme.
@@ -35,7 +35,7 @@ This sheet shows whether expensive housing prices relate to high incomes, or whe
 
 This sheet provides a “pressure test” of affordability stress by checking how it relates to market activity.
 
-<img src="tableau\Sheet3.png" alt="Sheet 3" width="900">  
+<p align="center"> <img src="tableau\Sheet3.png" alt="Sheet 3" width="600"> </p>
 
 <ul>
   <li><b>High stress + high activity:</b> suggests market churn where affordability remains strained (possible demand hotspots).</li>
