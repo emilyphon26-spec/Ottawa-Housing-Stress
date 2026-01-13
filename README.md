@@ -57,5 +57,49 @@ Overall, the dashboard highlights wards where housing costs appear high relative
 This is based on listing-derived median prices and does not reflect the total housing prices.
 
 - Price-to-income is a proxy indicator; it does not directly reflect monthly housing costs (e.g., rent/mortgage payments).
+- Ward-level averages might not be shown within- ward variance and inequity.
 
--Ward-level averages might not be shown within- ward variance and inequity.
+<h2>Data Sources & References</h2>
+
+<ul>
+  <li>
+    <a href="https://open.ottawa.ca/" target="_blank">
+      City of Ottawa – Open Data Portal
+    </a>
+    <br>
+    <span>Ward definitions and municipal reference data.</span>
+  </li>
+
+  <li>
+    <a href="https://www150.statcan.gc.ca/n1/en/type/data" target="_blank">
+      Statistics Canada – Census & Income Data
+    </a>
+    <br>
+    <span>Household income concepts and census-based methodology.</span>
+  </li>
+
+  <li>
+    <a href="https://www.cmhc-schl.gc.ca/" target="_blank">
+      Canada Mortgage and Housing Corporation (CMHC)
+    </a>
+    <br>
+    <span>Housing affordability, market pressure, and policy context.</span>
+  </li>
+
+  <li>
+    <a href="https://www.oecd.org/housing/data/affordable-housing-database/" target="_blank">
+      OECD – Affordable Housing Database
+    </a>
+    <br>
+    <span>International benchmarks and use of price-to-income ratios.</span>
+  </li>
+
+  <li>
+    <a href="https://www.canada.ca/en/services/housing.html" target="_blank">
+      Government of Canada – Housing and Affordability
+    </a>
+    <br>
+    <span>National housing policy and affordability frameworks.</span>
+  </li>
+</ul>
+
