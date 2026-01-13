@@ -1,0 +1,25 @@
+Ward,Average Household Income,Median Price,Listings_Count,Median_WalkScore,Price to Income Ratio,Risk_Band,Ward_Label,Ward_Name,Ward_Full
+1,137800,499900.0,44,14.5,3.627721335,Lower Stress (<4x),Ward 1 - Orléans East-Cumberland,Orléans East-Cumberland,Ward 1 - Orléans East-Cumberland
+2,133400,549900.0,31,41.0,4.122188906,Moderate (4–6x),Ward 2 - Orléans West-Innes,Orléans West-Innes,Ward 2 - Orléans West-Innes
+3,144200,499900.0,36,25.0,3.466712899,Lower Stress (<4x),Ward 3 - Barrhaven West,Barrhaven West,Ward 3 - Barrhaven West
+4,150200,634900.0,24,27.5,4.227030626,Moderate (4–6x),Ward 4 - Kanata North,Kanata North,Ward 4 - Kanata North
+5,166400,382350.0,50,1.0,2.297776442,Lower Stress (<4x),Ward 5 - West Carleton-March,West Carleton-March,Ward 5 - West Carleton-March
+6,154200,699500.0,28,14.5,4.536316472,Moderate (4–6x),Ward 6 - Stittsville,Stittsville,Ward 6 - Stittsville
+7,102900,750000.0,56,55.0,7.288629738,High (6–8x),Ward 7 - Bay,Bay,Ward 7 - Bay
+8,115700,592450.0,30,39.0,5.120570441,Moderate (4–6x),Ward 8 - College,College,Ward 8 - College
+9,116100,514950.0,28,31.5,4.435400517,Moderate (4–6x),Ward 9 - Knoxdale-Merivale,Knoxdale-Merivale,Ward 9 - Knoxdale-Merivale
+10,106400,499900.0,50,33.5,4.698308271,Moderate (4–6x),Ward 10 - Gloucester-Southgate,Gloucester-Southgate,Ward 10 - Gloucester-Southgate
+11,113700,669000.0,36,35.0,5.883905013,Moderate (4–6x),Ward 11 - Beacon Hill-Cyrville,Beacon Hill-Cyrville,Ward 11 - Beacon Hill-Cyrville
+12,81500,479000.0,137,86.5,5.877300613,Moderate (4–6x),Ward 12 - Rideau-Vanier,Rideau-Vanier,Ward 12 - Rideau-Vanier
+13,113600,899000.0,62,58.0,7.913732394,High (6–8x),Ward 13 - Rideau-Rockcliffe,Rideau-Rockcliffe,Ward 13 - Rideau-Rockcliffe
+14,99400,472450.0,126,93.0,4.753018109,Moderate (4–6x),Ward 14 - Somerset,Somerset,Ward 14 - Somerset
+15,147600,879900.0,101,75.0,5.961382114,Moderate (4–6x),Ward 15 - Kitchissippi,Kitchissippi,Ward 15 - Kitchissippi
+16,108100,599900.0,71,41.0,5.549491212,Moderate (4–6x),Ward 16 - River,River,Ward 16 - River
+17,141400,889450.0,66,67.0,6.290311174,High (6–8x),Ward 17 - Capital,Capital,Ward 17 - Capital
+18,112200,699900.0,37,32.0,6.237967914,High (6–8x),Ward 18 - Alta Vista,Alta Vista,Ward 18 - Alta Vista
+19,146200,599900.0,32,10.0,4.103283174,Moderate (4–6x),Ward 19 - Orléans South-Navan,Orléans South-Navan,Ward 19 - Orléans South-Navan
+20,159400,774900.0,53,1.0,4.861355082,Moderate (4–6x),Ward 20 - Osgoode,Osgoode,Ward 20 - Osgoode
+21,160800,999900.0,33,1.0,6.218283582,High (6–8x),Ward 21 - Rideau-Jock,Rideau-Jock,Ward 21 - Rideau-Jock
+22,157600,629450.0,24,11.0,3.993972081,Lower Stress (<4x),Ward 22 - Riverside South-Findlay Creek,Riverside South-Findlay Creek,Ward 22 - Riverside South-Findlay Creek
+23,136200,499949.5,28,40.0,3.670701175,Lower Stress (<4x),Ward 23 - Kanata South,Kanata South,Ward 23 - Kanata South
+24,138600,599900.0,35,36.0,4.328282828,Moderate (4–6x),Ward 24 - Barrhaven East,Barrhaven East,Ward 24 - Barrhaven East
